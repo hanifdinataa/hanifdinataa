@@ -64,7 +64,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 </div>
 
--->
+
 
 ## 📫 LinkedIn
 Find me on LinkedIn  
@@ -76,5 +76,9 @@ Find me on LinkedIn
     hanif-dinata-536371326
   </a>
 </p>
+-->
+## 📫 LinkedIn 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hanif-dinata-536371326/)  
+**hanif-dinata-536371326**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Ngoding+karena+seru;Belajar+karena+penasaran;Berbagi+karena+bermanfaat)](https://git.io/typing-svg)
