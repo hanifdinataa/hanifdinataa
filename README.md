@@ -78,7 +78,7 @@ Find me on LinkedIn
 </p>
 -->
 ## 📫 LinkedIn 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hanif-dinata-536371326/)  **hanifdinata**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hanif-dinata-536371326/)     **hanifdinata**
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Ngoding+karena+seru;Belajar+karena+penasaran;Berbagi+karena+bermanfaat)](https://git.io/typing-svg)
