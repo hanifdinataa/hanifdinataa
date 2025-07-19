@@ -71,12 +71,15 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 <table>
   <tr>
     <td>
-      <div style="position: relative; width: 140px; height: 140px; margin-right: 20px;">
-        <img src="0a12882f-257c-49eb-b0c9-30bedf0ec0ca.jpg" alt="Hanif Dinata" width="140" height="140" style="border-radius: 50%; box-shadow: 0 0 20px #0af, 0 0 30px #0af, 0 0 40px #0af;">
-      </div>
+      <img 
+        src="0a12882f-257c-49eb-b0c9-30bedf0ec0ca.jpg" 
+        alt="Hanif Dinata" 
+        width="120" 
+        height="120"
+        style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 12px #00aaff;">
     </td>
-    <td>
-      <h3 style="margin: 0;">✨ Find me on LinkedIn</h3>
+    <td style="padding-left: 15px;">
+      <h3>✨ Find me on LinkedIn</h3>
       <a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
         <img src="https://img.shields.io/badge/-hanif.dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
