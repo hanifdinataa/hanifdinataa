@@ -69,11 +69,31 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 ## 📫 LinkedIn
 
 [linkedin.com/in/hanifdinata](https://www.linkedin.com/in/hanif-dinata-536371326/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+##
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]
+##
+
+(https://www.linkedin.com/in/hanif-dinata-536371326/)
+
+##
+
 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/hanif-dinata-536371326/)  
+
+##
+
 [![LinkedIn](https://img.shields.io/badge/Hanif%20Dinata-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+
+##
+
 🔗 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+
+##
+
 💼 Let's connect professionally → [linkedin.com/in/hanifdinata](https://www.linkedin.com/in/hanif-dinata-536371326/)
+
+##
+
 [![Hanif Dinata on LinkedIn](https://img.shields.io/badge/-Hanif%20Dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
 
 <a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
