@@ -8,7 +8,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 
 ## Coba Coba
 ## 🚀 Teman Setia Saat Ngoding
-
+<!--
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 
 ## 🚀 Teman Setia Saat Ngoding
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+ <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -46,7 +46,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</div>
+</div> 
 
 ## 🚀 Tools Favorit
 
@@ -64,7 +64,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 </div>
 
-
+-->
 
 ## 📫 LinkedIn
 
