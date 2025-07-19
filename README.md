@@ -72,7 +72,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
   <tr>
     <td>
       <div style="position: relative; width: 140px; height: 140px; margin-right: 20px;">
-        <img src="assets/hanif.jpg" alt="Hanif Dinata" width="140" height="140" style="border-radius: 50%; box-shadow: 0 0 20px #0af, 0 0 30px #0af, 0 0 40px #0af;">
+        <img src="0a12882f-257c-49eb-b0c9-30bedf0ec0ca.jpg" alt="Hanif Dinata" width="140" height="140" style="border-radius: 50%; box-shadow: 0 0 20px #0af, 0 0 30px #0af, 0 0 40px #0af;">
       </div>
     </td>
     <td>
