@@ -5,10 +5,10 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 
 ## 🚀 Teman Setia Saat Ngoding
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,spring,docker,git,figma,vscode,go)
-
+<!--
 ## Coba Coba
 ## 🚀 Teman Setia Saat Ngoding
-<!--
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -69,6 +69,23 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 ## 📫 LinkedIn
 
 [linkedin.com/in/hanifdinata](https://www.linkedin.com/in/hanif-dinata-536371326/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/hanif-dinata-536371326/)  
+[![LinkedIn](https://img.shields.io/badge/Hanif%20Dinata-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+🔗 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+💼 Let's connect professionally → [linkedin.com/in/hanifdinata](https://www.linkedin.com/in/hanif-dinata-536371326/)
+[![Hanif Dinata on LinkedIn](https://img.shields.io/badge/-Hanif%20Dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
+
+<a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
+  <img src="assets/hanif-linkedin.jpg" alt="Hanif Dinata on LinkedIn" width="100" style="border-radius:50%;" />
+</a>
+
+<a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank" style="display:flex;align-items:center;gap:10px;">
+  <img src="assets/hanif-linkedin.jpg" alt="Hanif Dinata" width="60" style="border-radius:50%;" />
+  <span>💼 Connect with me on LinkedIn</span>
+</a>
+
+![Hanif's LinkedIn Card](assets/linkedin-card.png)
 
 ---
 
