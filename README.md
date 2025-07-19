@@ -70,7 +70,7 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 Find me on LinkedIn  
 <p align="left">
   <a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55"/>
   </a>
 </p>
 
