@@ -68,45 +68,16 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 
 ## 📫 LinkedIn
 
-[linkedin.com/in/hanifdinata](https://www.linkedin.com/in/hanif-dinata-536371326/)
-##
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
+    <img src="0a12882f-257c-49eb-b0c9-30bedf0ec0ca.jpg" width="160" style="border-radius: 50%;" alt="Hanif Dinata" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]
-##
-
-(https://www.linkedin.com/in/hanif-dinata-536371326/)
-
-##
-
-📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/hanif-dinata-536371326/)  
-
-##
-
-[![LinkedIn](https://img.shields.io/badge/Hanif%20Dinata-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
-
-##
-
-🔗 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
-
-##
-
-💼 Let's connect professionally → [linkedin.com/in/hanifdinata](https://www.linkedin.com/in/hanif-dinata-536371326/)
-
-##
-
-[![Hanif Dinata on LinkedIn](https://img.shields.io/badge/-Hanif%20Dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
-
-<a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
-  <img src="assets/hanif-linkedin.jpg" alt="Hanif Dinata on LinkedIn" width="100" style="border-radius:50%;" />
-</a>
-
-<a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank" style="display:flex;align-items:center;gap:10px;">
-  <img src="assets/hanif-linkedin.jpg" alt="Hanif Dinata" width="60" style="border-radius:50%;" />
-  <span>💼 Connect with me on LinkedIn</span>
-</a>
-
-![Hanif's LinkedIn Card](assets/linkedin-card.png)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
+    <img src="https://img.shields.io/badge/-hanif.dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Ngoding+karena+seru;Belajar+karena+penasaran;Berbagi+karena+bermanfaat)](https://git.io/typing-svg)
