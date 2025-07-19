@@ -67,24 +67,8 @@ Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 -->
 
 ## 📫 LinkedIn
+Find me on LinkedIn  
+[![LinkedIn](https://img.shields.io/badge/-hanif.dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-dinata-536371326/)
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="0a12882f-257c-49eb-b0c9-30bedf0ec0ca.jpg" 
-        alt="Hanif Dinata" 
-        width="120" 
-        height="120"
-        style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 12px #00aaff;">
-    </td>
-    <td style="padding-left: 15px;">
-      <h3>✨ Find me on LinkedIn</h3>
-      <a href="https://www.linkedin.com/in/hanif-dinata-536371326/" target="_blank">
-        <img src="https://img.shields.io/badge/-hanif.dinata-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=Ngoding+karena+seru;Belajar+karena+penasaran;Berbagi+karena+bermanfaat)](https://git.io/typing-svg)
