@@ -4,7 +4,7 @@ Saya adalah mahasiswa IT yang senang dengan dunia teknologi.
 Suka coba-coba hal baru, ngulik-ngulik proyek, dan belajar dari mana saja.
 
 ## 🚀 Teman Setia
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,spring,docker,git,figma,vscode,go,dart)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,spring,docker,git,figma,vscode,go,flutter)
 <!--
 ## Coba Coba
 ## 🚀 Teman Setia Saat Ngoding
