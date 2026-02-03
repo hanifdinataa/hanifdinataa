@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Hanif Dinata
+# Hi, I'm Hanif Dinata
 
 I am an IT student with a strong interest in technology.
 I enjoy exploring new things, experimenting with projects, and learning from various sources.
 
-## 🚀 Loyal friend
+## Loyal friend
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,spring,docker,git,figma,vscode,go,flutter)
 <!--
 ## Coba Coba
@@ -77,7 +77,7 @@ Find me on LinkedIn
   </a>
 </p>
 -->
-## 📫 LinkedIn 
+## LinkedIn 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hanif-dinata-536371326/)     
 
 
