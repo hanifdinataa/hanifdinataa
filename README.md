@@ -3,7 +3,7 @@
 I am an IT student with a strong interest in technology.
 I enjoy exploring new things, experimenting with projects, and learning from various sources.
 
-## Loyal friend
+## Loyal friend 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,php,spring,docker,git,figma,vscode,go,flutter)
 <!--
 ## Coba Coba
